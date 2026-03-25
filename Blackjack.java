@@ -90,7 +90,7 @@ public class Blackjack {
         } else if (dealer.total() > 21) {
             return "YOU WIN!!";
         } else if (dealer.total() > player.total()) {
-            return "Dealer wins";
+            return "Dealer wins :(";
         } else if (dealer.total() < player.total()) {
             return "YOU WIN!!";
         } else {
