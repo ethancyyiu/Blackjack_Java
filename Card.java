@@ -3,8 +3,8 @@ public class Card {
     String suit;
     int value;
 
-    public Card(String rank, String suit, int value) {
-        this.rank = rank;
+    public Card(String ranks, String suit, int value) {
+        this.rank = ranks;
         this.suit = suit;
         this.value = value;
     }
