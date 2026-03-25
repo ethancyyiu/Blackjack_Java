@@ -51,10 +51,10 @@ HOW TO RUN
    cd blackjack-java
 
 3. Compile the files:
-   javac src/*.java
+   javac *.java
 
 4. Run the game:
-   java -cp src Blackjack
+   java Blackjack
 
 ------------------------------------------------------------
 DEMO (OPTIONAL)
