@@ -36,14 +36,10 @@ This project helped me get more confident with the basics of Java. Some things I
 PROJECT STRUCTURE
 ------------------------------------------------------------
 Blackjack_Java/
- └── src/
-      ├── Card.java
-      ├── Deck.java
-      ├── Player.java
-      ├── Blackjack.java
-      └── (other supporting classes)
-
-(Your file list might be slightly different.)
+   ├── Card.java
+   ├── Deck.java
+   ├── Player.java
+   └── Blackjack.java
 
 ------------------------------------------------------------
 HOW TO RUN
