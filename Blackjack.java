@@ -69,7 +69,7 @@ public class Blackjack {
             player.addCards(deck.dealCard());
             System.out.println("Your cards: " + player);
             if (player.total() > 21) {
-
+                return;
             } else {
                 playerTurn();
             }
